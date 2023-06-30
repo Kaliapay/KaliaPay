@@ -1,0 +1,28 @@
+{
+  "name": "mks-kaliapay",
+  "version": "1.0.2",
+  "description": "Module de paiement pour kaliapay simplifié avec Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run kaliapay"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaliapay/KaliaPay.git"
+  },
+  "keywords": [
+    "kaliapay",
+    "mks-kaliapay",
+    "payment",
+    "node"
+  ],
+  "author": "mks-kaliapay",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/Kaliapay/KaliaPay/issues"
+  },
+  "homepage": "https://github.com/Kaliapay/KaliaPay#readme",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
