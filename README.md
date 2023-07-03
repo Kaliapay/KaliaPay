@@ -25,19 +25,19 @@ Utilisez ces différents gestionnaires pour installer le module ( ___Aussi utili
 
 ```bash
 
-npm install mks-kaliapay
+npm install kaliapay
 
 ```
 2. Utilisez yarn
 
 ```bash
-$ yarn add mks-kaliapay
+$ yarn add kaliapay
 ```
 
 3. Utilisez pnpm:
 
 ```bash
-$ pnpm add mks-kaliapay
+$ pnpm add kaliapay
 ```
 ## API
 
