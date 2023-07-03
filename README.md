@@ -17,7 +17,7 @@ Si vous ne l'avez pas, veuillez-vous connecter. Ensuite, allez dans la section d
 
 ## Installation
 
-Utilisez ces différents gestionnaires pour installer le module :
+Utilisez ces différents gestionnaires pour installer le module ( ___Aussi utilisable en react native___ ) :
 
 1. Utilisez npm
 
