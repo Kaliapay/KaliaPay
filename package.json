@@ -1,5 +1,5 @@
 {
-  "name": "mks-kaliapay",
+  "name": "kaliapay",
   "version": "1.0.2",
   "description": "Module de paiement pour kaliapay simplifié avec Node JS",
   "main": "index.js",
@@ -12,11 +12,11 @@
   },
   "keywords": [
     "kaliapay",
-    "mks-kaliapay",
+    "react native",
     "payment",
     "node"
   ],
-  "author": "mks-kaliapay",
+  "author": "MKS",
   "license": "",
   "bugs": {
     "url": "https://github.com/Kaliapay/KaliaPay/issues"
